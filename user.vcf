@@ -1,14 +1,15 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
+N:Langford;Ameena;;;
+FN: Ameena Shack Langford 
+ORG:Donovan Langford Accounting;
+TITLE:Accountant\nOwner
+EMAIL;type=INTERNET;type=WORK;type=pref:ameena@dononvanlangford.com
+EMAIL;type=INTERNET;type=SCHOOL;type=pref:ameena.langford@mitchellhamline.edu
+TEL;type=WORK;type=VOICE:(781)933-0236
+item1.ADR;type=WORK;type=pref:;;10 Cedar St., Suite 25\nWoburn\,MA;;;01801;
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref:donovanlangford.com
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
